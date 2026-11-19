@@ -1,7 +1,7 @@
 <!-- ============================================================
      GITHUB PROFILE README — varun21160
      Save this file as README.md inside a PUBLIC repo named exactly: varun21160
-     Lines like <!-- EDIT: ... --> mark places you can update easily.
+     
      ============================================================ -->
 
 <!-- ===================== 1. HERO BANNER ===================== -->
